@@ -1,0 +1,3 @@
+https://mobaxterm.mobatek.net/download.html --download MobaXterm
+https://www.putty.org/ --install Putty
+https://git-scm.com/downloads
